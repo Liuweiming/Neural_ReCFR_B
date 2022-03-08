@@ -1,0 +1,13 @@
+GAMEDEF
+limit
+numPlayers = 2
+numRounds = 4
+blind = 50 100
+raiseSize = 100 100 200 200
+firstPlayer = 1 2 2 2
+maxRaises = 3 3 4 4
+numSuits = 4
+numRanks = 13
+numHoleCards = 2
+numBoardCards = 0 3 1 1
+END GAMEDEF
