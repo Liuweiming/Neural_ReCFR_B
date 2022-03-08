@@ -1,6 +1,9 @@
-This is animplementation for `Neural Counterfactual Regret Minimization with Bootstrapping Learning`.
+### This is animplementation for `Neural Counterfactual Regret Minimization with Bootstrapping Learning`.
 
-This project depends on a customized version of [Open_spiel](https://github.com/deepmind/open_spiel) (See `third_party/open_spiel`). Other dependencies include [Tensorflow](https://github.com/tensorflow/tensorflow) and [project_acpc_server](https://github.com/dmorrill10/project_acpc_server).
+- paper: https://arxiv.org/abs/2012.01870
+- related projects:
+  - This project depends on an early version of [Open_spiel](https://github.com/deepmind/open_spiel) (See `third_party/open_spiel`). 
+  - Other dependencies include [Tensorflow](https://github.com/tensorflow/tensorflow) and [project_acpc_server](https://github.com/dmorrill10/project_acpc_server).
 
 # Requirements.
 ## Manually installation.
