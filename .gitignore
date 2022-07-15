@@ -51,6 +51,8 @@ open_spiel/scripts/jill.sh
 *.log
 *.std
 *.txt
+!CMakeLists.txt
+!requirements.txt
 
 /results
 /images
