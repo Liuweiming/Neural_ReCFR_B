@@ -66,6 +66,7 @@
     ```bash
     source env.sh
     cd third_party && ./install.sh
+    cd ..
     mkdir build && cd build
     cmake -DCMAKE_BUILD_TYPE=Release ..
     make -j8
